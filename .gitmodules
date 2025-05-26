@@ -1,0 +1,3 @@
+[submodule "Get-a-Pet-fronend"]
+	path = Get-a-Pet-fronend
+	url = https://github.com/BeatrizCosta01/Get-a-Pet-fronend.git
