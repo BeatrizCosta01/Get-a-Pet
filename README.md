@@ -120,7 +120,7 @@ Contribuições são sempre bem-vindas! Se você tiver alguma ideia, encontrou u
 
 ## 📞 Contato
 
-* Beatriz Costa - 
+* Beatriz Costa - https://www.linkedin.com/in/ana-beatriz-queiroz-costa-816147341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 * Link do Projeto: https://github.com/BeatrizCosta01/Get-a-Pet
 
 ---
